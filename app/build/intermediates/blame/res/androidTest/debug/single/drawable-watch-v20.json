@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\b27f0cc6825b00b5943a0486ef165894\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\b27f0cc6825b00b5943a0486ef165894\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\b27f0cc6825b00b5943a0486ef165894\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\b27f0cc6825b00b5943a0486ef165894\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\b27f0cc6825b00b5943a0486ef165894\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\b27f0cc6825b00b5943a0486ef165894\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

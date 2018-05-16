@@ -1,0 +1,1354 @@
+[
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_list_item.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\event_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_header.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eventos.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\eventos.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_account.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\register_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_header.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\qrcode.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detalhes.xml",
+        "source": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\src\\main\\res\\layout\\activity_detalhes.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode.xml",
+        "source": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\src\\main\\res\\layout\\qrcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\00ec1a59ca21400af7e2ac2c7cafc3f6\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_account.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\src\\main\\res\\layout\\register_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detalhes.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\activity_detalhes.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\4bb1d15af643856f824cbc5eda68d71d\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_list_item.xml",
+        "source": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\src\\main\\res\\layout\\event_list_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\5790839095ab5f95a0afb7e324d85138\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\cb8d2d16d0f9db213e35e2dcdf692547\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detalhes.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\src\\main\\res\\layout\\activity_detalhes.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\00ec1a59ca21400af7e2ac2c7cafc3f6\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\00ec1a59ca21400af7e2ac2c7cafc3f6\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_list_item.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\event_list_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_account.xml",
+        "source": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\src\\main\\res\\layout\\register_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\cb8d2d16d0f9db213e35e2dcdf692547\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\cb8d2d16d0f9db213e35e2dcdf692547\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_header.xml",
+        "source": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detalhes.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\activity_detalhes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eventos.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\src\\main\\res\\layout\\eventos.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\qrcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\cb8d2d16d0f9db213e35e2dcdf692547\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\790e043cee64f37a6fd419c7bbfe0f42\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\00ec1a59ca21400af7e2ac2c7cafc3f6\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_account.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\register_account.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eventos.xml",
+        "source": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\src\\main\\res\\layout\\eventos.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eventos.xml",
+        "source": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\src\\main\\res\\layout\\eventos.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\src\\main\\res\\layout\\qrcode.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc803d389bd72ebaea36cc326c3e3aa\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_header.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_list_item.xml",
+        "source": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\src\\main\\res\\layout\\event_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26d0f2d9385452405cf22e97bdbc97a8\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\layout\\abc_dialog_title_material.xml"
+    }
+]

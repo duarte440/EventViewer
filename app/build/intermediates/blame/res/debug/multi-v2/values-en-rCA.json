@@ -1,0 +1,180 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\5790839095ab5f95a0afb7e324d85138\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\4bb1d15af643856f824cbc5eda68d71d\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\5790839095ab5f95a0afb7e324d85138\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\4bb1d15af643856f824cbc5eda68d71d\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

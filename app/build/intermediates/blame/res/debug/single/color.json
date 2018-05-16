@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0eb2fa6d7d5b0596882655db8c8ae288\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\4bb1d15af643856f824cbc5eda68d71d\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0f38f633f4a882dcdb11d03c2c6c1c81\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\5790839095ab5f95a0afb7e324d85138\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0eb2fa6d7d5b0596882655db8c8ae288\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0eb2fa6d7d5b0596882655db8c8ae288\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\5790839095ab5f95a0afb7e324d85138\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0eb2fa6d7d5b0596882655db8c8ae288\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\2e980eb8f4b7c3687522f3a98c43eb01\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0f38f633f4a882dcdb11d03c2c6c1c81\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0eb2fa6d7d5b0596882655db8c8ae288\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0eb2fa6d7d5b0596882655db8c8ae288\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\2e980eb8f4b7c3687522f3a98c43eb01\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\4bb1d15af643856f824cbc5eda68d71d\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\0f38f633f4a882dcdb11d03c2c6c1c81\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\2e980eb8f4b7c3687522f3a98c43eb01\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d15b681bbc970dfbb5b40cd2607e191a\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\12de2eedbd13d39e92089785960da33a\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3b64b0c6d97b04f843d0187a6bd7049d\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\530274486dcc782fbc05513422054ed4\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\d365d2ee700a4cf8394f212e1de81dc9\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63e9551f2bd4f39880e6515bd87be116\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\85cc26d975a9fb47c79f06e43b65a283\\res\\color\\abc_primary_text_material_dark.xml"
+    }
+]

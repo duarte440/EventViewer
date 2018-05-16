@@ -1,0 +1,124 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,275,390,511,612,708,803,920,1024,1123,1224,1328,1442,1556,1649,1740,1837,1941,2028",
+                        "endColumns": "105,113,114,120,100,95,94,116,103,98,100,103,113,113,92,90,96,103,86,94",
+                        "endOffsets": "156,270,385,506,607,703,798,915,1019,1118,1219,1323,1437,1551,1644,1735,1832,1936,2023,2118"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\3237868635fae74a4fe071c0a2bade9c\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\22400b8ddc8c547c0cbc29bb41fdd843\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.4.0.aar\\08654e9416607c02945457954e19637b\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_mini_controller_img_placeholder.png",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.8.0.aar\\23522d26a36bbad6b1043dcf5849acfd\\res\\drawable-nodpi-v4\\cast_mini_controller_img_placeholder.png"
+    }
+]

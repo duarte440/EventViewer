@@ -1,0 +1,124 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,263,370,487,585,675,774,878,976,1078,1178,1277,1390,1505,1592,1676,1771,1877,1963",
+                        "endColumns": "101,105,106,116,97,89,98,103,97,101,99,98,112,114,86,83,94,105,85,94",
+                        "endOffsets": "152,258,365,482,580,670,769,873,971,1073,1173,1272,1385,1500,1587,1671,1766,1872,1958,2053"
+                    }
+                }
+            ]
+        }
+    ]
+}

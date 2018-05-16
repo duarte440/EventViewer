@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\00ec1a59ca21400af7e2ac2c7cafc3f6\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\89f99f2a9a07068064c0561d7442fd69\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e8e4a8a84c4fc7fee40f707ee75b48ba\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.0.aar\\cb8d2d16d0f9db213e35e2dcdf692547\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\542db3b0fd68ee836374b060fe4fc927\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1b0cd20e79fd7224f02d288b011bee56\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,124 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-km-rKH\\values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,367,477,570,650,753,856,950,1044,1134,1226,1332,1442,1526,1607,1697,1799,1887",
+                        "endColumns": "97,106,106,109,92,79,102,102,93,93,89,91,105,109,83,80,89,101,87,92",
+                        "endOffsets": "148,255,362,472,565,645,748,851,945,1039,1129,1221,1327,1437,1521,1602,1692,1794,1882,1975"
+                    }
+                }
+            ]
+        }
+    ]
+}

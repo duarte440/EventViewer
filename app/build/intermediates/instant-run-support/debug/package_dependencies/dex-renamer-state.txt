@@ -1,0 +1,7 @@
+#Sun May 13 19:38:31 BST 2018
+base.0=C\:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19

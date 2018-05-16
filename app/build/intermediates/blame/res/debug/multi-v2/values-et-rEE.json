@@ -1,0 +1,124 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\completo\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ruric\\Desktop\\ENG.INFORMATICA\\3ano\\EventViewer_RC\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ruric\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\53bc02276c1e293a7fe39b48c7ba1912\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ricar\\Documents\\UNI\\Sistemas embebidos\\EventViewer\\app\\build\\intermediates\\res\\merged\\debug\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ricar\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\726c84b1972658b9b2f3edc6d7a7e815\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LUSOFONA\\3ANO\\SE\\EventViewer_RP\\EventViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et-rEE\\values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duart\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\ef0713a51dcfae0e5b1164dfa5657c68\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,263,372,494,591,687,785,896,996,1094,1194,1291,1394,1505,1593,1679,1771,1877,1964",
+                        "endColumns": "100,106,108,121,96,95,97,110,99,97,99,96,102,110,87,85,91,105,86,93",
+                        "endOffsets": "151,258,367,489,586,682,780,891,991,1089,1189,1286,1389,1500,1588,1674,1766,1872,1959,2053"
+                    }
+                }
+            ]
+        }
+    ]
+}
